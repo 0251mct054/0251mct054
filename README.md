@@ -1,4 +1,5 @@
-## Hi there 👋
+This is my first GIT REPOSITORY
+Author - Rajan Katiyar
 
 <!--
 **0251mct054/0251mct054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
